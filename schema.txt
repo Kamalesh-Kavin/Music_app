@@ -1,0 +1,11 @@
+user table :-
+user_id(pri), uname, pwd
+
+playlists assigned to user :-
+playlist_id, user_id, playlist_name
+
+playlists_song_order :-
+playlist_id, song_id, order
+
+songs in db :-
+song_id, name, duration, author, genre, rating
