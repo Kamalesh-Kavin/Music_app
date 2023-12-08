@@ -1,10 +1,10 @@
 Progress in project :-
 
-1.  Define the database relation
-2.  Design the database schema
-3.  Setup virtual environment 
+1.  Define the database relation - done
+2.  Design the database schema - done
+3.  Setup virtual environment  - done
     `pipenv shell`
-4.  connect into the vm in vscode
+4.  connect into the vm in vscode - done
 5.  Design database schema in PostgreSQL
 6.  Load sample data into db
 7.  Implement fastAPI endpoints
